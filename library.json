@@ -1,0 +1,27 @@
+{
+	"name": "kwSimpleTimer",
+	"version": "1.0.0",
+	"description": "A simple, non-blocking timer for Arduino.",
+	"keywords": "arduino, timer",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/kingswood-monitor/kwSimpleTimer.git"
+	},
+	"authors":
+	[
+		{
+			"name": "Richard Lyon",
+			"email": "richlyon@mac.com",
+			"url": "https://github.com/kingswood-monitor",
+			"maintainer": true
+		}
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/kingswood-monitor/kwSimpleTimer.git",
+	"dependencies": 
+	{
+	},
+	"frameworks": "arduino",
+	"platforms": "espressif32"
+}
